@@ -53,5 +53,5 @@
 - A process is an independent block of instructions with its own memory space and environment settings
 - A thread is a subset of a process sharing the same memory space, used for concurrent task execution.
 - Knowing the difference helps in program design, system troubleshooting, and efficient resource allocation.
-- 
+#### 
 
